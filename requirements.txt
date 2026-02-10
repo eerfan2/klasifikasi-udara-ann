@@ -6,4 +6,3 @@ numpy
 joblib
 openpyxl
 h5py
-protobuf<5
